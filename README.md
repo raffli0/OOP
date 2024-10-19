@@ -1,0 +1,2 @@
+Inherit
+property dengan super
